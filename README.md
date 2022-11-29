@@ -1,7 +1,3 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# CSE499 ♥️ EEG BRAINWAVE ABNORMALITIES DETECTION USING DEEP LEARNING AND EXPLAINABLE AI
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+The basic scenario of the condition that impacts us to design the system- If a person lives in a rural location and suffers from any type of brain injury caused by various types of behaviors, he or she must seek treatment in an urban area hospital. When he/she arrives at the hospital, he/she must collect the EEG report and show it to the doctor who understands how to determine if the report waves are odd. And human error could also happen here. If there is any type of anomaly among the waves, our system will step in. This lowered the amount of labor and the time required to solve issues in the brain. And also, we are overcoming the limitation of detection method using machine learning or three-dimensional CNN deep learning method by using Explainable AI with CNN and transfer learning.
